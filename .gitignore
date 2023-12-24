@@ -137,3 +137,5 @@ GitHub.sublime-settings
 !.vscode/extensions.json
 .history
 .idea
+.DS_Store
+my_project/.DS_Store
